@@ -27,7 +27,7 @@ A worksheet is a collection of cells organized in rows and columns. It is the wo
 
 ## IWorksheetExporter Interface
 
-In **RadSpreadStreamProcessing**, a worksheet could be exported through the [**IWorksheetExporter** interface](https://docs.telerik.com/devtools/document-processing/api/Telerik.Documents.SpreadsheetStreaming.IWorksheetExporter.html). This interface defines members that allows you create and skip rows or columns as well as merge cells. 
+In **RadSpreadStreamProcessing**, a worksheet could be exported through the [**IWorksheetExporter** interface](https://docs.telerik.com/devtools/document-processing/api/Telerik.Documents.SpreadsheetStreaming.IWorksheetExporter.html). This interface defines members that allow you to create and skip rows or columns as well as merge cells. 
 
 ### Using IWorksheetExporter
 
